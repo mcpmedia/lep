@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+        {
+            "item": "minecraft:tropical_fish"
+        }
+    ],
+    "result":
+    {
+        "item": "minecraft:moss_carpet",
+        "count": 1
+    }
+}

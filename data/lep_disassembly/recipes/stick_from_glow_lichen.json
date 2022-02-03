@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+        {
+            "item": "minecraft:glow_lichen"
+        }
+    ],
+    "result":
+    {
+        "item": "minecraft:stick",
+        "count": 2
+    }
+}

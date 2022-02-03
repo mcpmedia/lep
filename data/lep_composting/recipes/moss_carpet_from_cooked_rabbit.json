@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+        {
+            "item": "minecraft:cooked_rabbit"
+        }
+    ],
+    "result":
+    {
+        "item": "minecraft:moss_carpet",
+        "count": 3
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      },
+      {
+        "item": "minecraft:gray_carpet"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:gray_wool"
+    }
+}
