@@ -9,3 +9,5 @@ LEP consists of the core pack, the behavior packs and some external packs. The c
 Place each `.dp.zip` under the directory `datapacks` in your world folder.
 ### Support
 The LEP will only officially support the latest release versions of Minecraft (Java Edition), including its Paper server forks. Visit [Frequently Asked Questions](https://github.com/mcpmedia/lep/wiki/Frequently-Asked-Questions) for more information.
+## Others
+Please refer to the [wiki](https://github.com/mcpmedia/lep-core/wiki).
