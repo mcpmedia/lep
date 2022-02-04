@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:gold_block"
+      },
+      {
+        "item": "minecraft:experience_bottle"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}

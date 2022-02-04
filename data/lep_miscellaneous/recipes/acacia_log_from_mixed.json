@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stripped_acacia_log"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:acacia_log",
+        "count": 1
+    }
+}

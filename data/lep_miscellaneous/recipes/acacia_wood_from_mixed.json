@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:acacia_log"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:acacia_wood",
+        "count": 1
+    }
+}

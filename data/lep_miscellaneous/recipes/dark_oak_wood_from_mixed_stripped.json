@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stripped_dark_oak_wood"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:dark_oak_wood",
+        "count": 1
+    }
+}

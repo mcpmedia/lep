@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:spruce_log"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:spruce_wood",
+        "count": 1
+    }
+}

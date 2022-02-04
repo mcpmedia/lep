@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stripped_crimson_hyphae"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:crimson_hyphae",
+        "count": 1
+    }
+}
