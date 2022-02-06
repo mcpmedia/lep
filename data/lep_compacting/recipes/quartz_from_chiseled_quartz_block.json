@@ -3,10 +3,10 @@
     "ingredients":
     [
         {
-            "item": "minecraft:quartz_block"
+            "item": "minecraft:chiseled_quartz_block"
         }
     ],
-    "result":y
+    "result":
     {
         "item": "minecraft:quartz",
         "count": 4
