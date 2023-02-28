@@ -2,9 +2,9 @@
 _Logical Enhancement Pack - Data Pack for Minecraft (Java Edition)_
 ## Introduction
 ### Description
-The Logical Enhancement Pack is a datapack designed for Minecraft (Java Edition), with the purpose to implement some logical enhancements into the existing gameplay.
+The Logical Enhancement Pack is collection of datapacks designed for Minecraft (Java Edition), with the aim to implement some enhancements into the existing gameplay.
 ### Structure
-LEP consists of the core pack, the behavior packs and some external packs. The core pack contains recipe modules, while the behavior packs contain scripts, along with external packs alter how the game behaves. Visit [Core Pack](https://github.com/mcpmedia/lep/wiki/Core-Pack), [Behavior Packs](https://github.com/mcpmedia/lep/wiki/Behavior-Packs) and [External Packs](https://github.com/mcpmedia/lep/wiki/External-Packs) for more information.
+LEP consists of the core pack and some behavior packs. The core pack contains recipe modules, while the behavior packs contain scriptVisit [Core Pack](https://github.com/mcpmedia/lep/wiki/Core-Pack) and [Behavior Packs](https://github.com/mcpmedia/lep/wiki/Behavior-Packs) for more information.
 ### Usage
 Place each `.datapack.zip` under the directory `datapacks` in your world folder.
 ### Support
