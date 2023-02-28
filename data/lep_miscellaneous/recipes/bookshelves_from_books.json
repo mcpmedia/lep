@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "B": [
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "minecraft:writable_book"
+      },
+      {
+        "item": "minecraft:written_book"
+      },
+      {
+        "item": "minecraft:enchanted_book"
+      }
+    ]
+  },
+  "pattern": [
+    "PPP",
+    "BBB",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:bookshelf"
+  }
+}

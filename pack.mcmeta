@@ -1,6 +1,6 @@
 {
    "pack":{
-      "pack_format": 8,
-      "description":"Logical Enhancement Pack v0.1.2"
+      "pack_format": 10,
+      "description":"Logical Enhancement Pack v0.2.0b1"
    }
 }
