@@ -3,10 +3,7 @@
     "ingredients":
     [
       {
-        "item": "minecraft:stick"
-      },
-      {
-        "item": "minecraft:stick"
+        "item": "minecraft:bonemeal"
       },
       {
         "item": "minecraft:stripped_acacia_log"
