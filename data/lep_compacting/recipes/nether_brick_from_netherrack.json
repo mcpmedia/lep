@@ -1,15 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:netherrack"
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+        {
+            "tag": "minecraft:netherrack"
+        }
+    ],
+    "result":
+    {
+        "item": "minecraft:nether_brick"
     }
-  },
-  "result": {
-    "item": "minecraft:nether_brick"
-  }
 }
