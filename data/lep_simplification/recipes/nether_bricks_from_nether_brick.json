@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "tag": "minecraft:nether_brick_material"
+      "item": "minecraft:nether_brick"
     }
   },
   "pattern": [
