@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+	[
+      "###",
+      "###",
+      "###"
+    ],
+    "key":
+	{
+		"#":
+		{
+		  "item": "minecraft:blue_carpet"
+		}
+    },
+    "result":
+    {
+        "item": "minecraft:blue_wool"
+    }
+}

@@ -3,12 +3,11 @@
     "ingredients":
     [
         {
-            "item": "minecraft:cobbled_deepslate"
+            "item": "minecraft:charcoal"
         }
     ],
     "result":
     {
-        "item": "minecraft:cobblestone",
-        "count": 2
+        "item": "minecraft:coal"
     }
 }

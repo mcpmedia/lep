@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:stripped_spruce_wood"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:spruce_wood",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:stripped_warped_stem"
+      }
+    ],
+    "result":
+    {
+        "item": "minecraft:stripped_warped_hyphae",
+        "count": 1
+    }
+}

@@ -3,12 +3,12 @@
     "ingredients":
     [
         {
-            "item": "minecraft:cobbled_deepslate"
+            "item": "minecraft:red_sandstone"
         }
     ],
     "result":
     {
-        "item": "minecraft:cobblestone",
+        "item": "minecraft:red_sand",
         "count": 2
     }
 }

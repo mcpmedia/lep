@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:red_sand"
     }
   },
   "result": {
-    "item": "minecraft:cobbled_deepslate"
+    "item": "minecraft:sandstone"
   }
 }

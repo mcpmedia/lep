@@ -3,12 +3,12 @@
     "ingredients":
     [
         {
-            "item": "minecraft:cobbled_deepslate"
+            "item": "minecraft:enchanted_book"
         }
     ],
     "result":
     {
-        "item": "minecraft:cobblestone",
-        "count": 2
+        "item": "minecraft:paper",
+        "count": 3
     }
 }
