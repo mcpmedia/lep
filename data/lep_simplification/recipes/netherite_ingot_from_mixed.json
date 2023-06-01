@@ -14,7 +14,6 @@
     }
   },
   "result": {
-    "item": "minecraft:netherite_ingot",
-    "count": 2
+    "item": "minecraft:netherite_ingot"
   }
 }
