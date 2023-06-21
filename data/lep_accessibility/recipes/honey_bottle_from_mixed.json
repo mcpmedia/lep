@@ -1,18 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SGS",
+    " S "
+  ],
   "key": {
     "S": {
       "item": "minecraft:sugar"
     },
     "G": {
       "item": "minecraft:glass_bottle"
-    },
+    }
   },
-  "pattern": [
-    " S ",
-    "SGS",
-    " S "
-  ],
   "result": {
     "item": "minecraft:honey_bottle"
   }
